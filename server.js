@@ -64,7 +64,7 @@ app.post('/api/notes', (req, res) => {
       return;
     }
     
-    // Assign a unique ID to the new note (you can use UUID or any other method)
+    // Assign a unique ID to the new note
     newNote.id = Date.now().toString();
 
     // Add the new note to the list of notes
