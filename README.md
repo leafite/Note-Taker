@@ -5,7 +5,9 @@ This week we had focused on using npm and so for the assignment
 the goal was to create a note taker with the given starter code.
 
 
+======================================================================================
 USER STORY
+======================================================================================
 
 AS A small business owner
 
@@ -14,7 +16,9 @@ I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 
+======================================================================================
 ACCEPTANCE CRITERIA
+======================================================================================
 
 GIVEN a note-taking application
 
